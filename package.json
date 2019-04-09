@@ -1,17 +1,17 @@
 {
   "name": "sorting-algorithms",
   "version": "1.0.0",
-  "description": "commun sorting algorithms",
+  "description": "common sorting algorithms",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "dssfsdf"
+    "url": "https://github.com/camilo56/sorting-algorithms-js.git"
   },
   "keywords": [
-    "sdssss"
+    "bubble sort, insertion sort, merge sort, quick sort"
   ],
   "author": "camilo colmenares (camiloHimura)",
   "license": "ISC"
