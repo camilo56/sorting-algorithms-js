@@ -2,7 +2,7 @@ const BubbleSort = require("./algorithms/BubbleSort");
 const InsertionSort = require("./algorithms/InsertionSort");
 const MergeSort = require("./algorithms/MergeSort");
 
-const data = [2,6,3,4,5,1];
+const data = [2,6,3,4,5,1,4,5];
 console.log("Array", data)
 console.log("----- BubbleSort -----")
 console.log(BubbleSort(data))
