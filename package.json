@@ -4,7 +4,7 @@
   "description": "common sorting algorithms",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,8 @@
     "bubble sort, insertion sort, merge sort, quick sort"
   ],
   "author": "camilo colmenares (camiloHimura)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
 }
